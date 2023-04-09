@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10529956051",
+    "project_id": "fir-manual-fdd4d",
+    "storage_bucket": "fir-manual-fdd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10529956051:android:171d29d44e2a5cb1413426",
+        "android_client_info": {
+          "package_name": "com.example.firebase_manual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10529956051-qr1gum2fb1esgrcuj5f49p5kdd144dr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpqBTYyVgYLNwBmPQ34FauJtRW-SEGZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10529956051-qr1gum2fb1esgrcuj5f49p5kdd144dr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
